@@ -58,3 +58,5 @@
 	71820820 - account 1 id
 	assume-role-user-cli -user created in account 1
 
+[Script for assume role](boto3-assume-role.py)
+
